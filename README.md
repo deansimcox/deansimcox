@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @deansimcox
-- Front-end developer from Perth WA with 10+ years experience
+- Front-end developer from Perth WA with ~~over 10 years~~ heaps of experience
 ## 🧙‍♂️ Current work
 - Full-time React dev @ [HBF](https://www.hbf.com.au/)
 ## 👨‍🔬 Current tech
