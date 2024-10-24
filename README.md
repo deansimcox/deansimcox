@@ -9,5 +9,5 @@
 - React Testing Library & Jest
 - MUI
 ## 📢 Get in touch
-- [simcox.me](https://simcox.me/)
+- [d8x.dev](https://www.d8x.dev/)
 - [LinkedIn](https://www.linkedin.com/in/dean-simcox-45857851/)
