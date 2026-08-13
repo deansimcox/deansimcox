@@ -14,4 +14,4 @@
  
  ---  
  
-![Do you really love lamp?](https://media1.tenor.com/m/La6Sy-gQuFUAAAAC/anchorman-will-ferrell.gif)
+![Homer chill'n?](https://media1.tenor.com/m/9wkli2MUD6QAAAAC/the-simpsons-homer-simpson.gif)
